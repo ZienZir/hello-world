@@ -1,5 +1,3 @@
 # hello-world
-show something
-Hi Lulu!
-
+show something.
 ZZ here, I was addicted to you.
